@@ -9,6 +9,9 @@
 
 -Trained, tested, and visualized results using scatter plots, bar charts, and heatmaps
 
--Built a simple user interface using Streamlit, where users can input parameters like wind speed, precipitation, and climate type, and the model predicts: • Risk level • Material recommendations • Estimated construction cost
+-Built a simple user interface using Streamlit, where users can input parameters like wind speed, precipitation, and climate type, and the model predicts: 
+• Risk level
+• Material recommendations 
+• Estimated construction cost
 
 -Worked on synthetic data
